@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsepSaepudin808
+- 👋 Hi, I’m Asep Saepudin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack javascript
 - 📫 How to reach me saepudina808h@gmail.com
